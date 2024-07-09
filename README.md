@@ -1,5 +1,3 @@
-# Angles
-
 # Angle Visualizer
 
 An interactive, educational web application for exploring and visualizing angles, built with Angular and Tailwind CSS.
