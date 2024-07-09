@@ -2,6 +2,10 @@
 
 An interactive, educational web application for exploring and visualizing angles, built with Angular and Tailwind CSS.
 
+
+<img width="1322" alt="Screenshot 2024-07-09 at 09 47 52" src="https://github.com/rubum/angles/assets/33229008/7ab1f063-c26c-4119-93ce-74122a10688a">
+
+
 ## 🔍 Overview
 
 Angle Visualizer is a dynamic tool designed to help students, educators, and geometry enthusiasts understand and interact with angles in real-time. This application provides an intuitive interface for manipulating angles, visualizing their properties, and exploring related trigonometric concepts.
