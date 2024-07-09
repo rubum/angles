@@ -1,27 +1,52 @@
 # Angles
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.8.
+# Angle Visualizer
 
-## Development server
+An interactive, educational web application for exploring and visualizing angles, built with Angular and Tailwind CSS.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## 🔍 Overview
 
-## Code scaffolding
+Angle Visualizer is a dynamic tool designed to help students, educators, and geometry enthusiasts understand and interact with angles in real-time. This application provides an intuitive interface for manipulating angles, visualizing their properties, and exploring related trigonometric concepts.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## ✨ Features
 
-## Build
+- **Interactive Angle Manipulation**: Adjust angles dynamically using input controls or an auto-incrementing timer.
+- **Real-time Visualization**: See angles change on a customizable SVG canvas with a precise grid background.
+- **Comprehensive Angle Information**: View detailed angle properties including degree measure, radian conversion, quadrant, sine, and cosine values.
+- **Dark Mode Support**: Toggle between light and dark themes for comfortable viewing in any environment.
+- **Responsive Design**: Fully responsive layout that works seamlessly on desktop and mobile devices.
+- **Educational Sidebar**: Quick access to related geometric and trigonometric topics for further exploration.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## 🛠️ Built With
 
-## Running unit tests
+- [Angular](https://angular.io/) - The web framework used
+- [Tailwind CSS](https://tailwindcss.com/) - For stylish, utility-first CSS
+- SVG - For crisp, scalable graphics
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## 🚀 Getting Started
 
-## Running end-to-end tests
+To get a local copy up and running, follow these simple steps:
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+1. Clone the repo
+   ```sh
+   git clone https://github.com/yourusername/angle-visualizer.git
+   ```
 
-## Further help
+2. Install NPM packages
+    ```sh
+    npm install
+    ```
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+3. Start the development server
+   ```sh
+   ng serve
+   ```
+
+## 🤝 Contributing
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+
+1. Fork the Project
+2. Create your Feature Branch (git checkout -b feature/AmazingFeature)
+3. Commit your Changes (git commit -m 'Add some AmazingFeature')
+4. Push to the Branch (git push origin feature/AmazingFeature)
+5. Open a Pull Request
